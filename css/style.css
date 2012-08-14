@@ -1,0 +1,116 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.quote1 {
+	position: absolute;
+	background-image: url(../images/quotes.png);
+	display: block;
+	width: 50px;
+	height: 40px;
+	z-index: 1;
+	margin: 0 0 0 30px;
+}
+.quote2 {
+	position: absolute;
+	background-image: url(../images/quotes.png);
+	display: block;
+	width: 50px;
+	height: 40px;
+	z-index: 2;
+	margin: -20px 0 0 570px;
+	background-position: right;
+}
+
+
+.logo {
+	width: 700px;
+	margin: 0 auto;
+	height: 170px;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.step {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	padding: 20px 10px;
+	font-weight: bold;
+	color: #FB399E;
+	font-size: 36px;
+	position: absolute;
+	z-index: 10;
+	margin: -30px 0 0 690px;
+	-moz-border-radius: 25px;
+	-webkit-border-radius: 25px;
+	border-radius: 25px;
+}
+.doc {
+	padding: 5px;
+	text-align: justify;
+	margin-top: 10px;
+}
+.doc img {
+	float: left;
+	margin: 0 10px 10px 0;
+}
+
+
+.input_error {
+	border: 1px solid #F00;
+}
+
+.wrapper {
+	width: 700px;
+	border: 1px solid #CCC;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	background-color: #E8E8E8;
+	padding: 10px;
+	margin: 0 auto;
+}
+.wrapper h2 {
+	text-align: center;
+	display: block;
+}
+.wrapper .forms {
+	margin: 30px 0 0 0;
+}
+.wrapper .tips-wrap {
+	padding: 10px;
+}
+.wrapper .tips-wrap .tips {
+	background-color: #FFF;
+	background-image: url(../images/tip_bg.png);
+	padding: 10px 10px 30px 10px;
+	color: #C00;
+	font-size: 15px;
+	font-weight: bold;
+	font-style: italic;
+	border: 1px solid #999;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	line-height: 25px;
+}
+.wrapper .tips-wrap .tips .txt {
+	margin: 0 10px;
+
+}
+.wrapper .tips-wrap .tips blockquote {
+	display: block;
+	position: relative;
+	z-index: 1;
+	width: 600px;
+	margin: 50px 0 20px 10px;
+}
+.wrapper .results_wrap {
+	background-color: #FFF;
+	border: 1px solid #999;
+	padding: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	margin: 10px;
+}
