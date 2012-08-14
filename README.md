@@ -1,0 +1,1 @@
+It is a simple web application that allows you to know your web status. You can test it from here http://diabetes.oasiswebsoft.com/
