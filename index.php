@@ -39,3 +39,5 @@ require('html/footer.php');
 //output end
 ob_end_flush()
 ?>
+
+//Raindolf Owusu iraindolf@yahoo.com
