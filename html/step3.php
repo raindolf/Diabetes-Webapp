@@ -70,3 +70,4 @@ if(isset($_COOKIE['full_name']) && isset($_COOKIE['age'])){
     <div class="tips"><div class="quote1"></div><blockquote><?php echo $quotes[$random]; ?></blockquote><div class="quote2"></div></div>
   </div>
 </div>
+//follow me on twitter
