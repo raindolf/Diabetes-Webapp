@@ -56,3 +56,5 @@ if(isset($_COOKIE['full_name'])){
     <div class="tips"><div class="quote1"></div><blockquote><?php echo $quotes[$random]; ?></blockquote><div class="quote2"></div></div>
   </div>
 </div>
+
+//Smoke test by Raindolf Owusu 
