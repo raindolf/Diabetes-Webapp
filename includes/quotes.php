@@ -16,7 +16,7 @@ $quotes = array(
 #7
 'If you are urinating more than usual, you will need to replace that lost liquid. You will be drinking more than usual. Have you been drinking more than usual lately? Consult your Doctor. - Medical News Today',
 #8
-'There are two major forms of diabetes. Type 1 diabetes is characterized by a lack of insulin production and type 2 diabetes results from the body\'s ineffective use of insulin. - WHO',
+'There are two major forms of diabetes.Type 1 diabetes is characterized by a lack of insulin production & type 2 diabetes results from the body\'s ineffective use of insulin. - WHO',
 #9
 'As the insulin in your blood is not working properly, or is not there at all, and your cells are not getting their energy, your body may react by trying to find more energy or food thereby causing intense hunger. - Medical News Today',
 #10
